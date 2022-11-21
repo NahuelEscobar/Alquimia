@@ -163,6 +163,7 @@ a:focus {
 
 .custom_nav-container .navbar-nav {
   padding-left: 18%;
+  z-index: auto;
 }
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
